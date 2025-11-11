@@ -50,4 +50,5 @@ O SpringDoc OpenAPI cria uma documentação automática para a API, que pode ser
 ## Como executar os testes com JUnit
 
 Rodar todos os testes: mvn test
+
 Rodar apenas uma classe de teste: mvn -Dtest=ListServiceTest test mvn -Dtest=com.catijr.backend_java.service.TaskServiceTest test
