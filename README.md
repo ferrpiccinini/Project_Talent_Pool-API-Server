@@ -47,7 +47,7 @@ O SpringDoc OpenAPI cria uma documentação automática para a API, que pode ser
 - `pom.xml`: Define as dependências e plugins do Maven.
 - `docker-compose.yaml`: Define o serviço do banco de dados PostgreSQL.
 
-##Como executar os testes com JUnit
+## Como executar os testes com JUnit
 
 Rodar todos os testes: mvn test
 Rodar apenas uma classe de teste: mvn -Dtest=ListServiceTest test mvn -Dtest=com.catijr.backend_java.service.TaskServiceTest test
